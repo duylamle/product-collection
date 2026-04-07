@@ -2,7 +2,7 @@
 
 # 🧰 Product Collection
 
-**A curated collection of Claude Code skills for product work.**
+**Claude Code skills for people who build products.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![skills.sh](https://img.shields.io/badge/skills.sh-compatible-brightgreen)](https://skills.sh)
@@ -13,29 +13,53 @@
 
 ---
 
-## 📦 Skills
+## Why this exists
 
-| Skill | Description | Install |
-|---|---|---|
-| [claude-personal-workflow-builder](skills/claude-personal-workflow-builder/) | Build, maintain, and grow your AI Personal System with Claude Code | `npx skills add duylamle/product-collection@claude-personal-workflow-builder -y` |
+This isn't trying to replace the powerful, feature-rich skills already out there. Those are great — if you're technical enough to understand them.
 
-> More skills coming soon. Each skill is self-contained with its own guide, templates, and examples.
+This collection fills a different gap: **the space between Tech and Product.** As a non-tech Product Owner who learned to build AI workflows from scratch, Lam found that most existing tools assume you already know what you're doing. They don't explain *why*, just *how*.
+
+Every skill here comes from real daily product work — simple frameworks that are easy to understand, practical enough for everyday use, and built by someone who had to figure it all out without an engineering background.
+
+If you're a product person, a manager, or anyone non-technical trying to make [Claude Code](https://claude.ai/claude-code) actually work for you — this is your starting point. Zero to one, at your own pace.
 
 ---
 
-## 🚀 Install All Skills
+## 🚀 Install everything
 
 ```bash
 npx skills add duylamle/product-collection -y
 ```
 
+This installs all skills in the collection. See each skill below for usage instructions.
+
 ---
 
-## 👤 About the Author
+## 📦 Skills
 
-Built by **Lê Trương Duy Lam** — Technical Product Owner at [VNG Corporation](https://www.vng.com.vn/).
+### 1. [Claude Personal Workflow Builder](skills/claude-personal-workflow-builder/)
 
-These skills are distilled from real operational experience building and running an AI personal system for product work.
+> Build, maintain, and grow your AI Personal System with Claude Code.
+
+An interactive guide that walks you through setting up a complete AI workspace — specialized agents, behavioral rules, bounded skills, memory, hooks. 13 phases from zero to a working system.
+
+**What you'll learn:**
+- How to structure agents (producer vs reviewer — and why they must be separate)
+- How to write skills that produce consistent output
+- How to upgrade skills and manage external resources (community skills, kits, npm packages)
+- 12 proven patterns from real operational use
+
+```bash
+npx skills add duylamle/product-collection@claude-personal-workflow-builder -y
+```
+
+> More skills coming. Each is self-contained with its own guide, templates, and examples.
+
+---
+
+## 👤 About
+
+Built by **Lê Trương Duy Lam** — Technical Product Owner at [VNG Corporation](https://www.vng.com.vn/), building products since 2020. These skills are distilled from running an AI personal system for product work every day — PRDs, discovery, strategy, stakeholder management, and team coordination.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/le-truong-duy-lam/)
 
