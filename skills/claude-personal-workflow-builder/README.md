@@ -47,11 +47,8 @@ You become the engineering manager of your AI team: providing context, setting i
 ## 🚀 Quick Start
 
 ```bash
-# Install this skill only
+# Install the skill
 npx skills add duylamle/product-collection@claude-personal-workflow-builder -y
-
-# Or install all skills from the collection
-npx skills add duylamle/product-collection -y
 
 # In Claude Code, say:
 "Build my AI workflow"

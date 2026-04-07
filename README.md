@@ -23,6 +23,14 @@
 
 ---
 
+## 🚀 Install All Skills
+
+```bash
+npx skills add duylamle/product-collection -y
+```
+
+---
+
 ## 👤 About the Author
 
 Built by **Lê Trương Duy Lam** — Technical Product Owner at [VNG Corporation](https://www.vng.com.vn/).
