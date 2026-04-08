@@ -3,7 +3,7 @@
 **Generate self-contained SPA mockups with Pug — from idea to clickable prototype in minutes.**
 
 [![Version](https://img.shields.io/badge/version-v1.0.0-orange)](CHANGELOG.md)
-[![skills.sh](https://img.shields.io/badge/skills.sh-compatible-brightgreen)](https://skills.sh)
+[![skills.sh](https://img.shields.io/badge/skills.sh-compatible-brightgreen)](https://skills.sh/duylamle/product-collection/pug-mockup)
 [![Made with Claude Code](https://img.shields.io/badge/Made_with-Claude_Code-blueviolet?logo=anthropic)](https://claude.ai/claude-code)
 [![Pug v3](https://img.shields.io/badge/Pug-v3-A86454?logo=pug)](https://pugjs.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](../../LICENSE)
