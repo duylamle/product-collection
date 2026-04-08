@@ -152,6 +152,14 @@ Built by **Lê Trương Duy Lam** — Technical Product Owner at [VNG Corporatio
 
 ---
 
+---
+
+<p align="center">
+  Thanks for visiting <b>Claude Personal Workflow Builder</b>
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=duylamle.product-collection.workflow-builder&style=flat" alt="visitors"/>
+</p>
+
 ## 📄 License
 
 [MIT](../../LICENSE) — use it, modify it, share it.

@@ -112,6 +112,14 @@ Vue natively supports Pug in templates (`<template lang="pug">`).
 
 See [full conversion guide](guide/4-convert-to-production.md) for step-by-step + syntax mapping.
 
+---
+
+<p align="center">
+  Thanks for visiting <b>Pug Mockup</b>
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=duylamle.product-collection.pug-mockup&style=flat" alt="visitors"/>
+</p>
+
 ## License
 
 [MIT](../../LICENSE)
