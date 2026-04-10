@@ -40,7 +40,7 @@ This installs all skills in the collection. See each skill below for usage instr
 
 ### 1. Claude Personal Workflow Builder
 
-[![View Skill — v1.1.1](https://img.shields.io/badge/View_Skill-v2.0.0-orange)](skills/claude-personal-workflow-builder/)
+[![View Skill — v2.0.0](https://img.shields.io/badge/View_Skill-v2.0.0-orange)](skills/claude-personal-workflow-builder/README.md)
 
 An interactive guide to build, maintain, and grow your AI Personal System with Claude Code — specialized agents, behavioral rules, bounded skills, memory, hooks. 13 phases from zero to a working system.
 
@@ -56,7 +56,7 @@ npx skills add duylamle/product-collection@claude-personal-workflow-builder -y
 
 ### 2. Pug Mockup
 
-[![View Skill — v1.0.0](https://img.shields.io/badge/View_Skill-v1.1.0-orange)](skills/pug-mockup/)
+[![View Skill — v1.1.0](https://img.shields.io/badge/View_Skill-v1.1.0-orange)](skills/pug-mockup/README.md)
 
 Generate self-contained SPA mockups using Pug template engine + Lucide SVG icons. Single HTML output — works offline, share with anyone.
 
