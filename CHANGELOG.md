@@ -2,6 +2,10 @@
 
 > Versioning: Y = number of skills, Z = patch (docs/badges). See CLAUDE.md.
 
+## v0.3.0 (2026-04-16)
+
+- Added skill #3: `excel-pipeline` v1.0.0 — Parse multi-source data → JSONL → formatted Excel (7 Python scripts: parse, merge, audit, diff, export)
+
 ## v0.2.2 (2026-04-10)
 
 - Updated `claude-personal-workflow-builder` to v2.0.0 (flexible phases, references, PO example)

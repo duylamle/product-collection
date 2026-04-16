@@ -9,6 +9,7 @@
 |---|---|
 | `claude-personal-workflow-builder` | Interactive guide to build, maintain, and grow your AI Personal System with Claude Code. 13 phases from zero to a working system with agents, skills, rules, hooks, and memory. |
 | `pug-mockup` | Generate self-contained SPA mockups with Pug template engine + Lucide SVG icons. Single HTML output, works offline. |
+| `excel-pipeline` | Parse multi-source data (Excel, CSV, markdown) → JSONL → formatted Excel. Full pipeline with formulas, lookups, audit, diff. |
 
 ## How to use
 
@@ -16,6 +17,7 @@ Each skill lives in `skills/[skill-name]/`. After installing a skill, say its tr
 
 - **claude-personal-workflow-builder**: Say "Build my AI workflow" or "Guide me through setting up my AI system"
 - **pug-mockup**: Say "Create a mockup" or "Build a pug mockup"
+- **excel-pipeline**: Say "Parse data", "Export excel", or "Data pipeline"
 
 ## Structure
 
@@ -26,11 +28,15 @@ skills/
 │   ├── guide/        ← Phase-by-phase guides
 │   ├── templates/    ← Starter templates you'll customize
 │   └── examples/     ← Complete setups for 3 roles
-└── pug-mockup/
+├── pug-mockup/
+│   ├── SKILL.md      ← Skill definition
+│   ├── guide/        ← Pug syntax reference
+│   ├── template/     ← Starter project (copy and build on)
+│   └── examples/     ← Walkthrough examples
+└── excel-pipeline/
     ├── SKILL.md      ← Skill definition
-    ├── guide/        ← Pug syntax reference
-    ├── template/     ← Starter project (copy and build on)
-    └── examples/     ← Walkthrough examples
+    ├── guide/        ← Workflow guide with examples
+    └── scripts/      ← 7 Python scripts (parse, merge, audit, diff, export)
 ```
 
 ## Versioning

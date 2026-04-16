@@ -5,7 +5,7 @@
 **Claude Code skills for people who build products.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v0.2.2-orange)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v0.3.0-orange)](CHANGELOG.md)
 [![skills.sh](https://img.shields.io/badge/skills.sh-compatible-brightgreen)](https://skills.sh/duylamle/product-collection)
 [![Made with Claude Code](https://img.shields.io/badge/Made_with-Claude_Code-blueviolet?logo=anthropic)](https://claude.ai/claude-code)
 [![Last Commit](https://img.shields.io/github/last-commit/duylamle/product-collection)](https://github.com/duylamle/product-collection)
@@ -68,6 +68,22 @@ Generate self-contained SPA mockups using Pug template engine + Lucide SVG icons
 
 ```bash
 npx skills add duylamle/product-collection@pug-mockup -y
+```
+
+### 3. Excel Pipeline
+
+[![View Skill — v1.0.0](https://img.shields.io/badge/View_Skill-v1.0.0-orange)](skills/excel-pipeline/README.md)
+
+Parse multi-source data (Excel, CSV, markdown) into JSONL, then export to formatted Excel with formulas, lookups, and conditional highlighting. Full pipeline: parse → merge → audit → diff → export.
+
+**Why JSONL as intermediate format:**
+- Plain text — AI reads and writes it natively (unlike binary Excel)
+- One record per line — easy to merge from multiple sources
+- Version-diffable — compare old vs new to see what changed
+- Reproducible — re-run pipeline anytime with updated source
+
+```bash
+npx skills add duylamle/product-collection@excel-pipeline -y
 ```
 
 > More skills coming. Each is self-contained with its own guide, templates, and examples.
