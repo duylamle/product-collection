@@ -1,4 +1,4 @@
-# Sidekick Setup — Step-by-step
+# Sidekick Agent MCP Setup — Step-by-step
 
 End-to-end setup for installing `sidekick-agent-mcp` and wiring it into a
 Claude Code (or other MCP client) workflow. ~10 minutes.

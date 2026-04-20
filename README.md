@@ -86,7 +86,7 @@ Parse multi-source data (Excel, CSV, markdown) into JSONL, then export to format
 npx skills add duylamle/product-collection@excel-pipeline -y
 ```
 
-### 4. Sidekick Setup
+### 4. Sidekick Agent MCP Setup
 
 [![View Skill — v1.0.0](https://img.shields.io/badge/View_Skill-v1.0.0-orange)](skills/sidekick-agent-mcp-setup/README.md)
 
